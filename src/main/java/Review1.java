@@ -1,7 +1,7 @@
 public class Review1 {
 
 	public static void q1() {
-		System.out.println(“There once was a man from St. Ives.”);
+		System.out.println("There once was a man from St. Ives.");
 	}
 
 	public static void q2() {
@@ -24,7 +24,7 @@ public class Review1 {
 		String word1 = "Hello";
 		String word2 = "World";
 		System.out.print(word1 + " ");
-		System.out.print(word2);
+		System.out.println(word2);
 	}
 
 }
